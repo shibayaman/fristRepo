@@ -1,1 +1,1 @@
-first project that's not going so bad!
+I'm starting to understand git slowly but surely
